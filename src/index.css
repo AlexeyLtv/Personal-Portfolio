@@ -1,0 +1,185 @@
+*{
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+/*Hero Icons*/
+
+.fa-js{
+  font-size: 50px;
+  background: linear-gradient(white 40%, #C5C5C5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  @media (max-width: 2100px){
+    font-size: 40px;
+  }
+
+  @media (max-width: 600px){
+    font-size: 35px;
+  }
+}
+
+.fa-html5{
+  font-size: 50px;
+  background: linear-gradient(white 40%, #C5C5C5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  @media (max-width: 2100px){
+    font-size: 40px;
+  }
+
+  @media (max-width: 600px){
+    font-size: 35px;
+  }
+}
+
+.fa-css3-alt{
+  font-size: 50px;
+  background: linear-gradient(white 40%, #C5C5C5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  @media (max-width: 2100px){
+    font-size: 40px;
+  }
+
+  @media (max-width: 600px){
+    font-size: 35px;
+  }
+}
+
+.fa-react{
+  font-size: 50px;
+  background: linear-gradient(white 40%, #C5C5C5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  @media (max-width: 2100px){
+    font-size: 40px;
+  }
+
+  @media (max-width: 600px){
+    font-size: 35px;
+  }
+}
+
+/*Social icons #C5C5C5*/
+
+.fa-instagram{
+  font-size: 30px;
+  transition: transform 0.1s;
+  cursor: pointer;
+
+  @media (max-width: 2100px){
+    font-size: 23px;
+  }
+}
+
+.fa-instagram:hover{
+  transform: scale(1.1);
+
+  @media (max-width: 600px){
+    transform: scale(1.0);
+  }
+}
+
+.fa-linkedin{
+  font-size: 30px;
+  transition: transform 0.1s;
+  cursor: pointer;
+
+  @media (max-width: 2100px){
+    font-size: 23px;
+  }
+}
+
+.fa-youtube:hover{
+  transform: scale(1.1);
+
+  @media (max-width: 600px){
+    transform: scale(1.0);
+  }
+}
+
+.fa-github{
+  font-size: 30px;
+  transition: transform 0.1s;
+  cursor: pointer;
+
+  @media (max-width: 2100px){
+    font-size: 23px;
+  }
+}
+
+.fa-github:hover{
+  transform: scale(1.1);
+
+  @media (max-width: 600px){
+    transform: scale(1.0);
+  }
+}
+
+.fa-regular{
+  color: white;
+}
+
+/*Contact icons*/
+
+.fa-envelope{
+
+  @media (max-width: 2100px){
+    font-size: 11.5px;
+  }
+}
+
+.fa-phone{
+
+  @media (max-width: 2100px){
+    font-size: 11.5px;
+  }
+}
+
+/*Experience icons*/
+
+.fa-graduation-cap{
+  color: white;
+  font-size: 25px;
+
+  @media (max-width: 2100px){
+    font-size: 20px;
+  }
+}
+
+.fa-pen{
+  color: white;
+  font-size: 25px;
+
+  @media (max-width: 2100px){
+    font-size: 20px;
+  }
+}
+
+.fa-house{
+  color: white;
+  font-size: 25px;
+
+  @media (max-width: 2100px){
+    font-size: 20px;
+  }
+}
+
+.fa-up-right-from-square{
+  margin-right: 0.5vw;
+
+  @media (max-width: 2100px){
+    font-size: 12px;
+  }
+
+    @media (max-width: 600px){
+      margin-right: 3vw;
+      font-size: 12px;
+    }
+}
