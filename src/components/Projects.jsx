@@ -18,7 +18,7 @@ const ProjectsDiv = styled.div`
     }
 
     @media (max-width: 600px){
-        scroll-margin-top: 5.5vh;
+        scroll-margin-top: -8vh;
     }
 `;
 
@@ -35,7 +35,7 @@ const Title = styled.div`
     }
 
     @media (max-width: 600px){
-        margin-top: 2.5vh;
+        margin-top: 17vh;
     }
 `;
 

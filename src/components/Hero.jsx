@@ -63,7 +63,7 @@ const Img = styled.div`
 const Profile = styled.div`
     width: 100%;
     height: 100%;
-    background: url("./Img/Profile3.png");
+    background: url("./Img/Profile4.png");
     background-position: center;
     background-size: 100%;
 `;
@@ -220,7 +220,8 @@ const Button1 = styled.button`
 
     @media (max-width: 600px){
         font-size: 15px;
-        width: 33vw;
+        padding: 20px 42px;
+        width: auto;
     }
 `;
 
@@ -440,7 +441,7 @@ const Hero = () => {
                         <A href="#contact"><Button1>Kontakt</Button1></A>
                     </Button1Div>
                     <Button2Div>
-                        <A href="./lebenslauf.pdf" download><Button2>Lebenslauf</Button2></A>
+                        <A href="./Lebenslauf_Litvin.pdf" download><Button2>Lebenslauf</Button2></A>
                     </Button2Div>
                 </ButtonsDiv>
             </Desc>
