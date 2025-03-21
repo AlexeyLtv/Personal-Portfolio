@@ -161,7 +161,7 @@ const Experience = () => {
                     <JobPosition>
                         <JobTitle>
                             <i className="fa-solid fa-graduation-cap"></i>
-                            <JobH1>Fortbildung & Webentwicklung</JobH1>
+                            <JobH1>Integration und Persönliche Weiterentwicklung</JobH1>
                         </JobTitle>
                         <JobDate>
                             <DateP>Mai 2023 - heute</DateP>
@@ -171,7 +171,7 @@ const Experience = () => {
                     {/* Job Description */}
                     <DescriptionDiv>
                         <DescP>
-                            Während dieser Fortbildung verbesserte ich meine deutschen Sprachkenntnisse (B2 Zertifikat, Ziel C1) und erweiterte mein technisches Know-how. Dabei erlernte ich die Grundlagen von HTML, JavaScript und CSS, sammelte erste praktische Erfahrungen in der Webentwicklung und machte mich mit React sowie Styled Components vertraut.
+                            Nach meiner Einwanderung nach Deutschland im Mai 2023 habe ich Deutsch in Wort und Schrift bis zum C1-Niveau gelernt und besitze ein B2-Zertifikat. Ich habe Webentwicklung gelernt und mehrere Projekte mit React, JavaScript, HTML und CSS sowie verschiedenen Libraries wie GSAP und Styled Components entwickelt und gehostet. Diese Projekte finden Sie im Reiter „Projekte“; die GitHub-Links zum Herunterladen befinden sich am Ende dieser Seite.
                         </DescP>
                     </DescriptionDiv>
                 </Item>

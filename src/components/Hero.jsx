@@ -160,6 +160,7 @@ const ButtonsDiv = styled.div`
 
     @media (max-width: 600px){
         gap: 20px;
+        margin-bottom: 3vh;
     }
 `;
 
@@ -441,7 +442,7 @@ const Hero = () => {
                         <A href="#contact"><Button1>Kontakt</Button1></A>
                     </Button1Div>
                     <Button2Div>
-                        <A href="./Lebenslauf_Litvin.pdf" download><Button2>Lebenslauf</Button2></A>
+                        <A href="./Lebenslauf_Litvin.pdf" target="_blank"><Button2>Lebenslauf</Button2></A>
                     </Button2Div>
                 </ButtonsDiv>
             </Desc>
